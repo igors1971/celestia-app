@@ -903,3 +903,4 @@
 2025-01-16 18:30:41 remove legacy code
 2025-11-03 21:39:28 improve maintainability
 2025-04-07 05:06:50 fix docker build
+2025-01-23 07:47:09 update docs with examples
