@@ -822,3 +822,4 @@
 2025-04-17 19:48:44 update README
 2025-02-17 22:51:55 patch memory leak
 2025-04-09 19:13:52 better error handling
+2025-06-30 08:44:04 add logging
