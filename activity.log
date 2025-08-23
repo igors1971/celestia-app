@@ -192,3 +192,4 @@
 2025-10-23 12:46:10 fix null pointer
 2025-07-31 10:51:53 temporary fix
 2025-02-02 03:20:59 remove debug output
+2025-08-23 10:30:40 fix crash issue
